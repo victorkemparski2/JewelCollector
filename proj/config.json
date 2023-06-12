@@ -1,0 +1,98 @@
+{
+    "mapWidth": 10,
+    "mapHeight": 10,
+    "robotX": 0,
+    "robotY": 0,
+    "entities": [
+        {
+            "type": "Red",
+            "x": 1,
+            "y": 9
+        },
+        {
+            "type": "Red",
+            "x": 8,
+            "y": 8
+        },
+        {
+            "type": "Green",
+            "x": 9,
+            "y": 1
+        },
+        {
+            "type": "Green",
+            "x": 7,
+            "y": 6
+        },
+        {
+            "type": "Blue",
+            "x": 3,
+            "y": 4
+        },
+        {
+            "type": "Blue",
+            "x": 2,
+            "y": 1
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 0
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 1
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 2
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 3
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 4
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 5
+        },
+        {
+            "type": "Water",
+            "x": 5,
+            "y": 6
+        },
+        {
+            "type": "Tree",
+            "x": 5,
+            "y": 9
+        },
+        {
+            "type": "Tree",
+            "x": 3,
+            "y": 9
+        },
+        {
+            "type": "Tree",
+            "x": 8,
+            "y": 3
+        },
+        {
+            "type": "Tree",
+            "x": 2,
+            "y": 5
+        },
+        {
+            "type": "Tree",
+            "x": 1,
+            "y": 4
+        }
+    ]
+}
